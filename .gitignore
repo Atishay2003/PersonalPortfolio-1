@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+outputs/
+data/passenger_demand.csv
+.pytest_cache/

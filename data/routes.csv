@@ -1,0 +1,9 @@
+route_id,route_name,origin,destination,zone,base_demand,current_buses,round_trip_minutes
+R1,Green Corridor,North Hub,City Center,CBD,126,5,55
+R2,Tech Loop,University West,Innovation Park,University,116,5,50
+R3,Market Connector,Old Town,Central Market,Commercial,104,4,45
+R4,Airport Link,City Center,Airport,Airport,96,5,60
+R5,Industrial Shuttle,East Depot,Industrial Zone,Industrial,84,4,70
+R6,Hospital Express,South Terminal,Medical District,Healthcare,91,5,48
+R7,Lakeview Line,Residential East,Lakeview,Residential,76,4,50
+R8,Stadium Special,West Junction,Stadium,Entertainment,94,4,58
